@@ -1,0 +1,12 @@
+# Edit at https://www.toptal.com/developers/gitignore?templates=dotnetcore
+
+# .NET Core build folders
+bin/
+obj/
+
+# Common node modules locations
+/node_modules
+/wwwroot/node_modules
+
+# Mac
+.DS_Store
