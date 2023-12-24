@@ -3,7 +3,7 @@ Content-Type: application/json
 
 {
     "name": "V",
-    "description": "",
+    "description": "sd",
     "startDateTime": "2022-04-08T08:00:00",
     "endDateTime": "2022-04-08T11:00:00",
     "savory": [
@@ -19,4 +19,4 @@ Content-Type: application/json
 
 ###
 
-GET https://localhost:7094/Breakfasts/e35daaba-5a9e-43a2-9305-3dead8296fe0
+GET http://localhost:5069/breakfasts/ef6aed9e-1bbd-44bc-bfb7-244512533796

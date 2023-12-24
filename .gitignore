@@ -10,3 +10,10 @@ obj/
 
 # Mac
 .DS_Store
+
+# Windows
+BuberBreakfast.csproj.user
+
+# IDEs
+
+.vs
