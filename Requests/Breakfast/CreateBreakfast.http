@@ -1,4 +1,4 @@
-POST http://localhost:5286/breakfasts
+POST http://localhost:5069/breakfasts
 Content-Type: application/json
 
 {
